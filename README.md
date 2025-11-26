@@ -7,3 +7,4 @@ This project contains:
 - index.html
 - src/main.tsx
 - src/App.tsx (your CRM component)
+"# VELIKI" 

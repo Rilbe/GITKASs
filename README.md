@@ -9,3 +9,4 @@ This project contains:
 - src/App.tsx (your CRM component)
 "# VELIKI" 
 "# VELIKI" 
+"# Ready-Kass" 
